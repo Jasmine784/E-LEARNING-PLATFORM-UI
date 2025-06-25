@@ -1,0 +1,90 @@
+.html.htmlbody {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+}
+
+.course-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.course-card {
+  background-color: #fff;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.video-section {
+  display: none;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.video-section:target {
+  display: block;
+}
+
+.progress-section {
+  max-width: 700px;
+  margin: auto;
+}
+
+.progress-bar {
+  background-color: #ddd;
+  border-radius: 20px;
+  height: 30px;
+  margin-bottom: 25px;
+  overflow: hidden;
+}
+
+.progress {
+  background-color: #4caf50;
+  height: 100%;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+} 
