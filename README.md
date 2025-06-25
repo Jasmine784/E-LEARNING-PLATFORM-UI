@@ -31,7 +31,7 @@ OUTPUT:
 
 ![eight](https://github.com/user-attachments/assets/c02828e8-117c-4f55-919f-90566bbb2cb4)
 
-![eight](https://github.com/user-attachments/assets/17289f34-9f31-40ce-b719-21db9aeba3eb)
+ ![eight](https://github.com/user-attachments/assets/17289f34-9f31-40ce-b719-21db9aeba3eb)
 
 ![eight](https://github.com/user-attachments/assets/87eb7eee-21ab-4901-8308-40b1ad36ae4f)
 
